@@ -12,4 +12,4 @@ This section highlights the key skills I have acquired.
 To contact me via email for any inquiries or opportunities.
 
 ## Visit my Portfolio 🌐
-[Click to visit](portfolio-git-main-pratyush-kumars-projects-6dd68873.vercel.app)
+[Click to visit](https://portfolio-git-main-pratyush-kumars-projects-6dd68873.vercel.app/)
